@@ -16,6 +16,6 @@ Specific objectives
     5. Develop a model that predicts the optimal amount and duration of the loan
 
 
-    ![alt text](image.png)
+![alt text](image.png)
 
-    Figure: Comparison of different classifier models for Prediction of credit score
+Figure: Comparison of different classifier models for Prediction of credit score
